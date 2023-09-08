@@ -1,0 +1,12 @@
+{
+  "name": "ujecommerce-tests",
+  "version": "1.0.0",
+  "description": "E2E tests for UJEcommerce project",
+  "main": "index.js",
+  "author": "Piotr Zielinski",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cypress": "^12.14.0"
+  }
+}
